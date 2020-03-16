@@ -10,7 +10,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "spryker/checkout-extension": "^1.0.0",
+    "spryker/checkout-extension": "^1.2.0",
     "fond-of-spryker/allowed-product-quantity-cart-connector": "dev-master"
   },
   "require-dev": {
