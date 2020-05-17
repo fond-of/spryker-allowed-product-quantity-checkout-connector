@@ -22,8 +22,6 @@ class AllowedProductQuantityCheckoutConnectorBusinessFactory extends AbstractBus
     }
 
     /**
-     * @throws
-     *
      * @return \FondOfSpryker\Zed\AllowedProductQuantityCheckoutConnector\Dependency\Facade\AllowedProductQuantityCheckoutConnectorToAllowedProductQuantityCartConnectorFacadeInterface
      */
     protected function getAllowedProductQuantityCartConnectorFacade(): AllowedProductQuantityCheckoutConnectorToAllowedProductQuantityCartConnectorFacadeInterface
